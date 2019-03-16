@@ -23,4 +23,5 @@ class Student
 
   def drop_table
   end
+
 end
